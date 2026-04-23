@@ -1,2 +1,2 @@
 # modif_khanza
-edit dikit dikit
+modif service mjkn kirim manual untuk task id yang belum selesai
